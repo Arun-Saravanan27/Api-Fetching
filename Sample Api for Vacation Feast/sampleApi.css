@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.heading{
+    color: brown;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.child{
+    width: 90%;
+    height: 125px;
+    display:block;
+    margin: 0 auto;
+    background-color: steelblue;
+    border-radius: 10px;
+}
+
+.child1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+}
+
+.child3{
+    margin-top: 22px;
+    margin-left: 410px;
+    color:brown;
+    width: 125px;
+    height: 35px;
+    border-radius: 11px;
+    border-color: black;
+}
